@@ -1,6 +1,7 @@
 # Signal Improved ultra-Fast Light-sheet Microscope (SIFT)
 ## SIFT initiatives
 SIFT is a clear tisuue microscopic inititive that is capable to image centimeter scale tissue with isotropic submicron resolution. Our initiative involves the development of a tissue imaging pipeline that utilizes deep learning (DL) techniques for precise tissue boundary determination. Additionally, we have engineered a microscope that enhances signal-to-noise ratio (SNR) in images and accelerates frame acquisition rates by up to four times compared to existing ASLM (Advanced Single Lens Microscopy) microscopes.
+
 ![Temp](https://github.com/nasful/SIFT/assets/98116443/1d4757a6-448d-414a-a0ce-95f38edd1182)
 Fig. Optical path diagram of SIFT
 
