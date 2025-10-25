@@ -18,5 +18,5 @@ Additionally, we have created an intensity-based thresholding software capable o
 
 ## Citation
 If you find the work helpful in your resarch or work, please cite the following paper:
-M. N. H. Prince, B. Garcia, C. Henn, Y. Yi, E. A. Susaki, Y. Watakabe, T. Nemoto, K. A. Lidke, H. Zhao, I. S. Remiro, S. Liu, and T. Chakraborty, "Signal Improved ultra-Fast Light-sheet Microscope (SIFT) for large tissue imaging," 2023.05.31.543002 (2023).
-doi: https://doi.org/10.1101/2023.05.31.543002
+Md Nasful Huda Prince, Benjamin Garcia, Cory Henn, Yating Yi, Etsuo A. Susaki, Yuki Watakabe, Tomomi Nemoto, Keith A. Lidke, Hu Zhao, Irene Salinas Remiro, Sheng Liu & Tonmoy Chakraborty, "Signal improved ultra-fast light-sheet microscope for large tissue imaging," Communications Engineering volume 3, Article number: 59 (2024).
+DOI: https://doi.org/10.1038/s44172-024-00205-4
